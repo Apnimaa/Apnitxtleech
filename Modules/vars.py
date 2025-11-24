@@ -6,5 +6,5 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 WEBHOOK = True  # Don't change this
 PORT = int(os.environ.get("PORT", 8870))  # Default to 8000 if not set
-MONGO_URI = "mongodb+srv://niravpatel180503_db_user:vjWNaWhRk0gMSNyQ@cluster0.26bfgmf.mongodb.net/?appName=Cluster0"
-MONGO_DB_NAME = "niravpatel180503_db_user"
+MONGO_URI = ""
+MONGO_DB_NAME = ""
