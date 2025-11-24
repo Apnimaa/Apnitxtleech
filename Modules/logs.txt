@@ -1,0 +1,5 @@
+16-Nov-25 15:41:36 - INFO - Web server started on port 8870 [main.py:394]
+16-Nov-25 15:49:28 - INFO - Validating BOT_TOKEN before start... [main.py:447]
+16-Nov-25 15:49:33 - INFO - Bot token valid. Bot user: TXT DOWNLOADER 2.0 (@fixtxt_leechBot) [main.py:432]
+16-Nov-25 15:52:50 - INFO - Stop signal received (SIGINT). Exiting... [idle.py:75]
+16-Nov-25 15:52:51 - INFO - Stop signal received (SIGINT). Exiting... [idle.py:75]
